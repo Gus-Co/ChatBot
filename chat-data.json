@@ -1,0 +1,172 @@
+{
+  "chat": [
+    {
+      "user_id": 1,
+      "messages": [
+        {
+          "user_id": 1,
+          "message": "Hi Dan, how are you doing this fine morning?",
+          "timestamp": "2020-07-27T10:30:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "I am doing just dandy Evan, how are you?",
+          "timestamp": "2020-07-27T10:31:10+0000"
+        },
+        {
+          "user_id": 1,
+          "message": "Good thanks. Listen can we collaborate on a new project?",
+          "timestamp": "2020-07-27T10:32:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Sure! Tell me more. ðŸ§",
+          "timestamp": "2020-07-27T10:33:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Really exicted to hear more about the project!",
+          "timestamp": "2020-07-27T10:35:10+0000"
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "messages": [
+        {
+          "user_id": 2,
+          "message": "Lorem ipsum dolor sit amet.",
+          "timestamp": "2020-07-27T10:20:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "consectetur adipiscing elit",
+          "timestamp": "2020-07-27T10:15:10+0000"
+        },
+        {
+          "user_id": 2,
+          "message": "Proin ut tristique erat.",
+          "timestamp": "2020-07-27T10:10:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Curabitur interdum massa metus.",
+          "timestamp": "2020-07-27T10:05:10+0000"
+        }
+      ]
+    },
+    {
+      "user_id": 3,
+      "messages": [
+        {
+          "user_id": 3,
+          "message": "Integer luctus metus lacinia semper sodales.",
+          "timestamp": "2020-07-27T09:55:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Sed quis mollis massa.",
+          "timestamp": "2020-07-27T09:31:10+0000"
+        },
+        {
+          "user_id": 3,
+          "message": "Nam ac tempor libero.",
+          "timestamp": "2020-07-27T09:20:10+0000"
+        },
+        {
+          "user_id": 3,
+          "message": "Pellentesque non mauris nibh. Integer id tortor gravida.",
+          "timestamp": "2020-07-27T09:15:10+0000"
+        }
+      ]
+    },
+    {
+      "user_id": 4,
+      "messages": [
+        {
+          "user_id": 4,
+          "message": "Mauris elementum id enim sit amet pharetra.",
+          "timestamp": "2020-07-27T09:14:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Nunc tempus efficitur nisi, porta pulvinar mi.",
+          "timestamp": "2020-07-27T09:00:10+0000"
+        },
+        {
+          "user_id": 4,
+          "message": "Fusce pretium tortor eu metus interdum accumsan.",
+          "timestamp": "2020-07-27T08:55:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Donec eget placerat ante.",
+          "timestamp": "2020-07-27T08:54:10+0000"
+        }
+      ]
+    },
+    {
+      "user_id": 5,
+      "messages": [
+        {
+          "user_id": 5,
+          "message": "Maecenas rutrum eget massa maximus cursus.",
+          "timestamp": "2020-07-27T08:50:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Vivamus et ultrices eros.",
+          "timestamp": "2020-07-27T08:45:10+0000"
+        },
+        {
+          "user_id": 5,
+          "message": "Nullam tincidunt lorem mauris, facilisis sagittis nisi facilisis nec.",
+          "timestamp": "2020-07-27T08:44:10+0000"
+        },
+        {
+          "user_id": 6,
+          "message": "Phasellus scelerisque neque eget mauris porta convallis.",
+          "timestamp": "2020-07-27T08:33:10+0000"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "username": "Le Chef",
+      "status": "online",
+      "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+    },
+    {
+      "user_id": 2,
+      "username": "JosÃ©",
+      "status": "away",
+      "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+      "user_id": 3,
+      "username": "Geekster",
+      "status": "online",
+      "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+      "user_id": 4,
+      "username": "Scully Mike",
+      "status": "offline",
+      "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+      "user_id": 5,
+      "username": "Joe Brick",
+      "status": "online",
+      "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+    },
+    {
+      "user_id": 6,
+      "username": "Magic Marven",
+      "status": "offline",
+      "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+    }
+  ]
+}
